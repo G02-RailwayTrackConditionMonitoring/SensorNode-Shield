@@ -123,66 +123,62 @@ GenerateClassCluster=0
 DocumentUniqueId=VTHFKKGL
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for SensorNode Shield\Design Rule Check - Sensor Node - Adafruit ItsyBitsy nRF52840 Shield.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for SensorNode Shield\Sensor Node - Adafruit ItsyBitsy nRF52840 Shield.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for SensorNode Shield\Sensor Node - Adafruit ItsyBitsy nRF52840 Shield.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for SensorNode Shield\Sensor Node - Adafruit ItsyBitsy nRF52840 Shield.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for SensorNode Shield\Sensor Node - Adafruit ItsyBitsy nRF52840 Shield.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for SensorNode Shield\Sensor Node - Adafruit ItsyBitsy nRF52840 Shield.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for SensorNode Shield\Sensor Node - Adafruit ItsyBitsy nRF52840 Shield.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for SensorNode Shield\Sensor Node - Adafruit ItsyBitsy nRF52840 Shield.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for SensorNode Shield\Sensor Node - Adafruit ItsyBitsy nRF52840 Shield.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for SensorNode Shield\Sensor Node - Adafruit ItsyBitsy nRF52840 Shield.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for SensorNode Shield\Sensor Node - Adafruit ItsyBitsy nRF52840 Shield.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for SensorNode Shield\Sensor Node - Adafruit ItsyBitsy nRF52840 Shield.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for SensorNode Shield\Sensor Node - Adafruit ItsyBitsy nRF52840 Shield.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for SensorNode Shield\Sensor Node - Adafruit ItsyBitsy nRF52840 Shield.REP
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for SensorNode Shield\Sensor Node - Adafruit ItsyBitsy nRF52840 Shield.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for SensorNode Shield\Sensor Node - Adafruit ItsyBitsy nRF52840 Shield.TXT
 DItemRevisionGUID=
 
@@ -344,7 +340,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=HP98F176 (HP Officejet Pro 8620)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
